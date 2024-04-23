@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shubham!
 
-📊 Senior Data Engineer with demonstrated leadership prowess and strong track record in building end to end data platforms for startups and corporations. Proficient in building petabyte scale data solutions enabling enterprises to streamline data lifecycle and turn data into actionable insights.
+📊 Head of Data with demonstrated leadership prowess and a strong track record in building end-to-end data platforms for startups and corporations. Proficient in building petabyte-scale data solutions enabling enterprises to streamline data lifecycle and turn data into actionable insights.
 
 ```python
 class ShubhamSkills():
@@ -60,7 +60,7 @@ if __name__ == '__main__':
 **🌱 I’m currently learning**
 
 🤖 Application of Python and ML in Bioinformatics\
-🔧 Advanced Data Architechture Design
+🔧 Advanced Data Architecture Design
  
 <p>&nbsp;</p> 
 
