@@ -2,7 +2,7 @@
 **Head of Digital Innovation | CIO/CTO/CDO Track | AI Strategist | Digital Transformation Leader**  
 _Empowering enterprises to scale data, AI, and cloud systems with clarity, ethics, and precision._
 
-[LinkedIn](https://www.linkedin.com/in/bhatnagarshubham) • [GitLab](https://gitlab.com/bhatnagarshubham78) • 
+[LinkedIn](https://www.linkedin.com/in/bhatnagarshubham) • [Github](https://github.com/shubham-bhatnagar-78) • 
 [Mail](mailto:bhatnagarshubham78@gmail.com)
 
 ---
