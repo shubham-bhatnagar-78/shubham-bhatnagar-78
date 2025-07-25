@@ -10,7 +10,7 @@ _Elevating enterprises and startups through data, AI, and cloud systems. Built w
 
 AI and Data leader with a decade of experience delivering enterprise-grade platforms, GenAI solutions, and intelligent automation across global enterprises, high-growth startups, and deep-tech ventures. I operate as a hands-on technologist and systems-level strategist, combining architecture, code, and business alignment to drive real outcomes.
 
-I recently led the full-stack digital foundation of a semiconductor spin-off, building ERP, QMS, HRIS, cybersecurity, and cloud systems from zero in under nine months. That journey gave me first-hand insight into co-founder dynamics, navigating ambiguity, driving clarity, and scaling with conviction.
+I led the full-stack digital foundation of a semiconductor spin-off, building ERP, QMS, HRIS, cybersecurity, and cloud systems from zero in under nine months. That journey gave me first-hand insight into co-founder dynamics, navigating ambiguity, driving clarity, and scaling with conviction.
 
 Previously, I served as founding engineer and AI lead across multiple startups. I have built GenAI-powered systems used by over 470 million users, designed real-time data platforms from 10GB to 1.5PB, delivered more than 1.2 million USD in cost savings, and led global engineering teams of up to 40 across India, the EU, and the US.
 
