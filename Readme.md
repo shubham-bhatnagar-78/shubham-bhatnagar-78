@@ -9,14 +9,17 @@ _Empowering enterprises to scale data, AI, and cloud systems with clarity, ethic
 
 ## 👤 About Me
 
-I’m a cross-disciplinary technology leader with over a decade of experience designing, scaling, and securing data-driven systems from the ground up. I've led transformations in organizations ranging from early-stage startups to global enterprises, driving:
-- Enterprise cloud migrations (AWS, Azure, GCP)
-- Multi-PB data platforms
-- AI/ML productization
-- Predictive manufacturing systems
-- LLM-integrated decision support tools
+AI and Data leader with years of proven impact in delivering enterprise-scale platforms, GenAI systems, and intelligent operations across global enterprises, high-growth startups, and deep-tech ventures. I operate as a hands-on technologist and systems-level thinker, combining code, architecture, and business alignment to drive strategic outcomes.
 
-My leadership spans across IT, Data Engineering, Cybersecurity, and AI, always aligned with business impact and human-centered design.
+I led the full digital foundation for a newly spun-off company, building ERP, QMS, HRIS, cybersecurity, and cloud systems from the ground up. This gave me real-world immersion into the co-founder experience, building from zero, owning execution across functions, and managing time and energy with the discipline of a CEO.
+
+My work has enabled over 1.2 million USD in cost savings and 31% faster decision-making through predictive maintenance, LLM-powered analytics, and statistical simulations. I have designed real-time data platforms ranging from 10GB to 1.5PB, built personalised recommender systems for hundreds of millions of users, and led global teams of up to 40 across multiple regions.
+
+Industry experience spans semiconductors, media and streaming, finance, fintech, HR tech, e-commerce, research, and B2B SaaS. I specialise in translating complexity into scalable systems that deliver measurable business value.
+
+Lifelong learner with 11+ certifications in Generative AI, MLOps, cloud architecture, and leadership from globally recognised institutions. Consistently ranked among the top 10 in university and honoured with national awards for academic excellence and innovation by leading government bodies.
+
+Outside of work, I explore creative writing, non-fiction, psychology, and the human mind. These interests help me lead with empathy, clarity, and long-term perspective.
 
 ---
 
@@ -32,7 +35,7 @@ My leadership spans across IT, Data Engineering, Cybersecurity, and AI, always a
   Implementing resilient, ISO-compliant architectures and frameworks for data trust and operational efficiency.
 
 - **Manufacturing Intelligence Systems**  
-  Predictive maintenance, queue simulation engines, capacity planning platforms built on statistical and AI models.
+  Predictive maintenance, queue simulation engines, and capacity planning platforms built on statistical and AI models.
 
 ---
 
