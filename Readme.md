@@ -54,17 +54,18 @@ Outside of work, I explore psychology, philosophy, and the human operating syste
 
 | Project | Description | Outcome |
 |--------|-------------|---------|
-| **LLM Data Assistant** | LangChain + OpenAI-powered BI engine | Reduced analytics turnaround time by 70% |
-| **Cloud-Native MES Rebuild** | Re-architected MES to Azure | Saved €250K annually and reduced infra overhead by 40% |
-| **Monte Carlo Simulator** | Forecast queue bottlenecks | Improved manufacturing efficiency by 25% |
-| **Predictive Maintenance Platform** | Tooling analytics & planning | Increased uptime by 25% and planning efficiency by 21% |
-| **Data Governance CoE** | ISO-aligned governance layer | Improved data visibility by 30% and security awareness by 15% |
-| **Recommender Engine** | Personalized delivery system | Increased user engagement by 1.5% |
-| **User Profiling Pipelines** | DAU segmentation at scale | Reduced runtime latency by 23% |
-| **Real-Time Analytics Stack** | Event-driven infra design | Cut data latency by 70% and tripled insight speed |
-| **Attribution & A/B System** | Campaign ROI + testing infra | Boosted ROI accuracy by 24% and user activation by 18% |
-| **SKU Recommender Engine** | Automated B2B tooling | Reduced overhead by 34% and improved efficiency by 55% |
-| **Multi-Cloud Pipelines** | AWS + Azure migration | Cut migration time by 68% and increased scalability |
+| **LLM Data Assistant** | LangChain + OpenAI-powered BI engine | ↓ 70% analytics turnaround time |
+| **Cloud-Native MES Rebuild** | Re-architected MES to Azure | ↓ €250K costs, ↓ 40% infra overhead |
+| **Monte Carlo Simulator** | Forecast queue bottlenecks | ↑ 25% manufacturing efficiency |
+| **Predictive Maintenance Platform** | Tooling analytics & planning | ↑ 25% uptime, ↑ 21% efficiency |
+| **Data Governance CoE** | ISO-aligned governance layer | ↑ 30% visibility, ↑ 15% security awareness |
+| **Recommender Engine** | Personalized delivery system | ↑ 1.5% engagement |
+| **User Profiling Pipelines** | DAU segmentation at scale | ↓ 23% runtime latency |
+| **Real-Time Analytics Stack** | Event-driven infra design | ↓ 70% latency, ↑ 3x speed |
+| **Attribution & A/B System** | Campaign ROI + testing infra | ↑ 24% ROI accuracy, ↑ 18% activation |
+| **SKU Recommender Engine** | Automated B2B tooling | ↓ 34% overhead, ↑ 55% efficiency |
+| **Multi-Cloud Pipelines** | AWS + Azure migration | ↓ 68% time, ↑ scalability |
+
 
 ---
 
