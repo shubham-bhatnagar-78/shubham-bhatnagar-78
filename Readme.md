@@ -15,7 +15,7 @@ I build AI systems that hold up at scale.
 
 CTO building AI-powered enterprise platforms. Custom SLMs, RAG pipelines, cloud infrastructure at scale.
 
-Ten years shipping across semiconductors, media, fintech, and deep tech. $1.2M+ in cost savings. Data platforms from 10GB to 1.5PB.
+Shipping across semiconductors, media, fintech, and deep tech. $1.2M+ in cost savings. Data platforms from 10GB to 1.5PB.
 
 ---
 
