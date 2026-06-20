@@ -3,10 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=CTO+%7C+Builder+%7C+Systems+Thinker;AI+%26+Data+Systems+at+Scale;Turning+Complexity+into+Clarity" alt="Typing SVG" />
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhatnagarshubham)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatnagarshubham78@gmail.com)
-
 </div>
 
 ---
