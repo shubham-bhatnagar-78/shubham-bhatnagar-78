@@ -96,10 +96,3 @@ Chrome extension to clip Gmail emails to Obsidian. Markdown, images, full thread
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shubham-bhatnagar-78&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views counter">
-
-</div>
