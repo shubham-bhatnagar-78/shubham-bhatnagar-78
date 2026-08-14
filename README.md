@@ -9,19 +9,12 @@
 I build AI systems that hold up at scale. Custom SLMs, RAG pipelines, cloud infrastructure, data platforms from 10GB to 1.5PB. Shipping across semiconductors, media, fintech, and deep tech. $1.2M+ in cost savings delivered.
 
 <div align="center">
-<img src="github-metrics.svg" alt="Shubham Bhatnagar GitHub activity and contribution metrics" width="100%">
+<img src="github-metrics.svg" alt="Shubham Bhatnagar GitHub activity and contribution metrics" width="680">
 </div>
 
-<table>
-<tr>
-<td width="50%">
-<img src="github-languages.svg" alt="Shubham Bhatnagar programming language breakdown">
-</td>
-<td width="50%">
-<img src="github-habits.svg" alt="Shubham Bhatnagar coding habits and activity patterns">
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="github-languages.svg" alt="Shubham Bhatnagar programming language breakdown" width="680">
+</div>
 
 ---
 

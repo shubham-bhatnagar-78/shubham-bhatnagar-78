@@ -36,15 +36,3 @@ jobs:
           plugin_languages_categories: markup, programming, data
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-habits.svg
-          base: ""
-          config_timezone: Europe/Berlin
-          config_animations: no
-          plugin_habits: yes
-          plugin_habits_charts: no
-          plugin_habits_days: 14
-          plugin_habits_from: 200
