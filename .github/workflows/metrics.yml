@@ -16,15 +16,13 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          base: header, activity, community, repositories
+          base: header
           config_timezone: Europe/Berlin
           config_animations: no
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           plugin_lines: yes
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_repositories: yes
 
       - uses: lowlighter/metrics@latest
         with:
@@ -47,6 +45,6 @@ jobs:
           config_timezone: Europe/Berlin
           config_animations: no
           plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 30
-          plugin_habits_from: 500
+          plugin_habits_charts: no
+          plugin_habits_days: 14
+          plugin_habits_from: 200
