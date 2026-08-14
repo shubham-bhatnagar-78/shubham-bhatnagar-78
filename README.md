@@ -6,7 +6,7 @@
 
 ---
 
-Researcher. Generalist. Builder.
+Researcher. Generalist. Builder. Strategist. Operator.
 
 <table>
 <tr>
