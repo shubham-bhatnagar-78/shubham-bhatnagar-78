@@ -15,16 +15,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg
-          base: header
-          config_timezone: Europe/Berlin
-          config_animations: no
-          plugin_lines: yes
-          plugin_lines_sections: base
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
           filename: github-languages.svg
           base: ""
           config_animations: no

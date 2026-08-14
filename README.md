@@ -6,11 +6,7 @@
 
 ---
 
-I build AI systems that hold up at scale. Custom SLMs, RAG pipelines, cloud infrastructure, data platforms from 10GB to 1.5PB. Shipping across semiconductors, media, fintech, and deep tech. $1.2M+ in cost savings delivered.
-
-<div align="center">
-<img src="github-metrics.svg" alt="Shubham Bhatnagar GitHub activity and contribution metrics" width="680">
-</div>
+Researcher. Generalist. Builder.
 
 <table>
 <tr>
@@ -38,6 +34,8 @@ I build AI systems that hold up at scale. Custom SLMs, RAG pipelines, cloud infr
 - **Multi-cloud data pipelines.** 10GB to 1.5PB across AWS, Azure, GCP. 68% migration cost reduction.
 - **Distributed user profiling system.** Python, Dask, MongoDB, Cassandra, Airflow. 23% runtime improvement for 30M+ DAU.
 - **Enterprise cloud migration.** 110+ applications across AWS and Azure. $400K+ annual savings.
+
+<sub>Select highlights. Full portfolio spans 15+ years across semiconductors, media, fintech, and deep tech.</sub>
 
 ---
 
