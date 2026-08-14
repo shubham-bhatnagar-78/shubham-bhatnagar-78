@@ -27,12 +27,17 @@ I build AI systems that hold up at scale. Custom SLMs, RAG pipelines, cloud infr
 
 ## What I've Built
 
-- **Custom SLM for secure document inference.** Serving 10K+ enterprise users globally.
-- **RAG architecture on Azure** (LangChain + OpenAI). Cut analytics turnaround by 56%, automated 70% of manual workflows.
-- **Full-stack cloud platform migration.** Saved €250K+ annually with 40% infra reduction.
-- **Event-driven analytics ecosystem.** Cut latency by 70%, 3x time-to-market.
-- **Personalized recommendation engine.** 470M+ users, 30M daily active.
-- **Data platforms at scale.** 10GB to 1.5PB across AWS, Azure, and GCP.
+- **Custom SLM for secure document inference.** 10K+ enterprise users globally.
+- **RAG + Text-to-BI engine** (LangChain, Azure OpenAI). Cut analytics turnaround by 56%, automated 70% of manual workflows.
+- **Full-stack cloud platform migration.** €250K+ annual savings, 40% infra reduction, Terraform-automated provisioning.
+- **Event-driven analytics ecosystem.** AWS Lambda, S3, EMR, Kinesis. 70% latency reduction, 3x time-to-market.
+- **Personalized recommendation engine.** 470M+ users, 30M DAU. FastAPI + Kubernetes microservices.
+- **Predictive maintenance platform.** Monte Carlo simulations, capacity planning. 35% operational efficiency gains.
+- **Marketing attribution model.** GA, HubSpot, CRM integration. 24% campaign ROI lift.
+- **SAP S/4HANA migration governance.** Vendor relationships, cutover planning, downstream data-flow validation.
+- **Multi-cloud data pipelines.** 10GB to 1.5PB across AWS, Azure, GCP. 68% migration cost reduction.
+- **Distributed user profiling system.** Python, Dask, MongoDB, Cassandra, Airflow. 23% runtime improvement for 30M+ DAU.
+- **Enterprise cloud migration.** 110+ applications across AWS and Azure. $400K+ annual savings.
 
 ---
 
@@ -51,6 +56,9 @@ I build AI systems that hold up at scale. Custom SLMs, RAG pipelines, cloud infr
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=flat-square&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-191919?style=flat-square&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logoColor=white)
 ![Hybrid Intelligence](https://img.shields.io/badge/Hybrid_Intelligence-6D28D9?style=flat-square&logoColor=white)
 ![Recommender Systems](https://img.shields.io/badge/Recommender_Systems-8B5CF6?style=flat-square&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-10B981?style=flat-square&logoColor=white)
@@ -70,6 +78,7 @@ I build AI systems that hold up at scale. Custom SLMs, RAG pipelines, cloud infr
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
 ![Kinesis](https://img.shields.io/badge/Kinesis-FF4F00?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![EMR](https://img.shields.io/badge/EMR-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Data Engineering**
 
@@ -123,8 +132,9 @@ I build AI systems that hold up at scale. Custom SLMs, RAG pipelines, cloud infr
 
 ![GDPR](https://img.shields.io/badge/GDPR-0052B4?style=flat-square&logoColor=white)
 ![EU AI Act](https://img.shields.io/badge/EU_AI_Act-003399?style=flat-square&logoColor=white)
+![SOC 2](https://img.shields.io/badge/SOC_2-1A1A1A?style=flat-square&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-003366?style=flat-square&logoColor=white)
 ![Ethical AI](https://img.shields.io/badge/Ethical_AI-6B21A8?style=flat-square&logoColor=white)
-![ISO Compliance](https://img.shields.io/badge/ISO_Compliance-1A1A1A?style=flat-square&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC2626?style=flat-square&logoColor=white)
 ![Data Governance](https://img.shields.io/badge/Data_Governance-1E40AF?style=flat-square&logoColor=white)
 ![KYC/AML](https://img.shields.io/badge/KYC%2FAML-7C3AED?style=flat-square&logoColor=white)
@@ -135,13 +145,16 @@ I build AI systems that hold up at scale. Custom SLMs, RAG pipelines, cloud infr
 
 **Certifications**
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP_(PMI)-4A154B?style=flat-square&logoColor=white)
+![DevOps MLOps](https://img.shields.io/badge/DevOps_MLOps_(Duke)-00205B?style=flat-square&logoColor=white)
+![MS Advanced Educator](https://img.shields.io/badge/MS_Educator-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
+![Leading with Vision](https://img.shields.io/badge/Leading_with_Vision_(NASBA)-2D3748?style=flat-square&logoColor=white)
+![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Microsoft AI](https://img.shields.io/badge/Microsoft_AI-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
+![Azure Developer](https://img.shields.io/badge/Azure_Developer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![AWS Developer](https://img.shields.io/badge/AWS_Developer-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![AWS SysOps](https://img.shields.io/badge/AWS_SysOps-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure Developer](https://img.shields.io/badge/Azure_Developer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Microsoft AI](https://img.shields.io/badge/Microsoft_AI-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
-![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![PMP](https://img.shields.io/badge/PMP_(PMI)-4A154B?style=flat-square&logoColor=white)
-![DevOps MLOps](https://img.shields.io/badge/DevOps_MLOps_(Duke)-00205B?style=flat-square&logoColor=white)
 
