@@ -6,7 +6,7 @@
 
 ---
 
-I build AI systems that hold up at scale — custom SLMs, RAG pipelines, cloud infrastructure, and data platforms from 10GB to 1.5PB. Shipping across semiconductors, media, fintech, and deep tech. $1.2M+ in cost savings delivered.
+I build AI systems that hold up at scale. Custom SLMs, RAG pipelines, cloud infrastructure, data platforms from 10GB to 1.5PB. Shipping across semiconductors, media, fintech, and deep tech. $1.2M+ in cost savings delivered.
 
 <div align="center">
 <img src="github-metrics.svg" alt="Shubham Bhatnagar GitHub activity and contribution metrics" width="100%">
@@ -27,12 +27,12 @@ I build AI systems that hold up at scale — custom SLMs, RAG pipelines, cloud i
 
 ## What I've Built
 
-- **Custom SLM for secure document inference** — serving 10K+ enterprise users globally
-- **RAG architecture on Azure** (LangChain + OpenAI) — cut analytics turnaround by 56%, automated 70% of manual workflows
-- **Full-stack cloud platform migration** — saved €250K+ annually with 40% infra reduction
-- **Event-driven analytics ecosystem** — cut latency by 70%, 3x time-to-market
-- **Personalized recommendation engine** — 470M+ users, 30M daily active
-- **Data platforms at scale** — 10GB to 1.5PB across AWS, Azure, and GCP
+- **Custom SLM for secure document inference.** Serving 10K+ enterprise users globally.
+- **RAG architecture on Azure** (LangChain + OpenAI). Cut analytics turnaround by 56%, automated 70% of manual workflows.
+- **Full-stack cloud platform migration.** Saved €250K+ annually with 40% infra reduction.
+- **Event-driven analytics ecosystem.** Cut latency by 70%, 3x time-to-market.
+- **Personalized recommendation engine.** 470M+ users, 30M daily active.
+- **Data platforms at scale.** 10GB to 1.5PB across AWS, Azure, and GCP.
 
 ---
 
@@ -49,7 +49,7 @@ macOS automation daemon + MCP server for agentic LLM control. Gives AI agents di
 <td width="50%">
 
 ### [gmail-clipper-obsidian](https://github.com/shubham-bhatnagar-78/gmail-clipper-obsidian)
-Chrome extension to clip Gmail emails to Obsidian — Markdown, images, full threads. Bridge between communication and knowledge management.
+Chrome extension to clip Gmail emails to Obsidian. Markdown, images, full threads. Bridges communication and knowledge management.
 
 </td>
 </tr>
