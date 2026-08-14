@@ -12,13 +12,20 @@ I build AI systems that hold up at scale. Custom SLMs, RAG pipelines, cloud infr
 <img src="github-metrics.svg" alt="Shubham Bhatnagar GitHub activity and contribution metrics" width="680">
 </div>
 
-<div align="center">
-<img src="github-languages.svg" alt="Shubham Bhatnagar programming language breakdown" width="680">
-</div>
+<table>
+<tr>
+<td width="50%">
+<img src="github-languages.svg" alt="Shubham Bhatnagar programming language breakdown">
+</td>
+<td width="50%">
+<img src="github-streak.svg" alt="Shubham Bhatnagar commit streak and daily activity">
+</td>
+</tr>
+</table>
 
 ---
 
-## What I've Built
+### What I've Built
 
 - **Custom SLM for secure document inference.** 10K+ enterprise users globally.
 - **RAG + Text-to-BI engine** (LangChain, Azure OpenAI). Cut analytics turnaround by 56%, automated 70% of manual workflows.
@@ -34,7 +41,7 @@ I build AI systems that hold up at scale. Custom SLMs, RAG pipelines, cloud infr
 
 ---
 
-## Stack
+### Stack
 
 **AI / ML**
 
