@@ -35,7 +35,7 @@ Researcher. Generalist. Builder.
 - **Distributed user profiling system.** Python, Dask, MongoDB, Cassandra, Airflow. 23% runtime improvement for 30M+ DAU.
 - **Enterprise cloud migration.** 110+ applications across AWS and Azure. $400K+ annual savings.
 
-<sub>Select highlights. Full portfolio spans 15+ years across semiconductors, media, fintech, and deep tech.</sub>
+<sub>Select highlights. Full portfolio spans 10+ years across semiconductors, media, fintech, deep tech, identity, FMCG, pharma, and various other domains.</sub>
 
 ---
 
