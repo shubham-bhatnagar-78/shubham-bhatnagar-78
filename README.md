@@ -1,6 +1,6 @@
 # Shubham Bhatnagar
 
-**CTO | AI & Data Systems at Scale | EU**
+**CTO, Full Stack Software, Data and AI Executive | EU | Concept to Production in days**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhatnagarshubham/)
 
