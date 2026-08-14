@@ -67,6 +67,7 @@ Chrome extension to clip Gmail emails to Obsidian. Markdown, images, full thread
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-191919?style=flat-square&logoColor=white)
 
 **Cloud & Infrastructure**
 
@@ -85,6 +86,11 @@ Chrome extension to clip Gmail emails to Obsidian. Markdown, images, full thread
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **Apps & DevTools**
 
@@ -95,4 +101,12 @@ Chrome extension to clip Gmail emails to Obsidian. Markdown, images, full thread
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+**Certifications**
+
+![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS Developer](https://img.shields.io/badge/AWS_Developer-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure Developer](https://img.shields.io/badge/Azure_Developer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP_(PMI)-4A154B?style=flat-square&logoColor=white)
 
