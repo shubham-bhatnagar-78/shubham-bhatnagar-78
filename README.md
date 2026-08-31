@@ -1,12 +1,12 @@
 # Shubham Bhatnagar
 
-**CTO, Full Stack Software, Data and AI Executive | EU | Concept to Production in days**
+**Full Stack Software, Data and AI Executive | EU | Concept to Production in days**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhatnagarshubham/)
 
 ---
 
-Researcher. Generalist. Builder. Strategist. Operator. Transformation Catalyst.
+Polymath. Researcher. Generalist. Builder. Strategist. Operator. Transformation Catalyst.
 
 <table>
 <tr>
