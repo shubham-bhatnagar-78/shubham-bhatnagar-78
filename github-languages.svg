@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="286" class=" no-animations">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="306" class=" no-animations">
     <defs>
         <style/>
     </defs>
@@ -11,7 +11,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    20 Languages
+                    22 Languages
                 </h2>
             </section>
             <section class="column">
@@ -21,26 +21,28 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="161.263389763657" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="161.263389763657" y="0" width="115.50178599097144" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="276.7651757546284" y="0" width="70.22731974091157" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="346.99249549553997" y="0" width="43.05318254873357" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="390.04567804427353" y="0" width="19.547581879981912" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="409.59325992425545" y="0" width="15.292419769384972" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="424.88567969364044" y="0" width="10.811018735590293" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="435.6966984292307" y="0" width="7.450192508451569" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="443.14689093768226" y="0" width="6.089060528204001" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="449.2359514658863" y="0" width="2.7601993988080684" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="451.99615086469436" y="0" width="2.6108352148099363" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.6069860795043" y="0" width="1.9812548764577111" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="456.58824095596196" y="0" width="1.4447695831018457" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="458.03301053906387" y="0" width="0.6348109907101364" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.66782152977396" y="0" width="0.5903768631040419" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.258198392878" y="0" width="0.45559510386129887" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="459.7137934967393" y="0" width="0.129234097651019" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.84302759439026" y="0" width="0.12389777554850351" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="459.9669253699388" y="0" width="0.03138391414746741" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.9983092840863" y="0" width="0.001690715913668278" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="146.6974246485343" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="146.6974246485343" y="0" width="105.06919501080834" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="251.76661965934264" y="0" width="95.01295862049439" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="346.77957827983704" y="0" width="39.16444403208117" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="385.9440223119182" y="0" width="17.78196479748035" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="403.7259871093986" y="0" width="13.911146231645699" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="417.63713334104426" y="0" width="11.056851905196707" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="428.69398524624097" y="0" width="8.2225035626411" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="436.91648880888204" y="0" width="7.423222328552043" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="444.3397111374341" y="0" width="5.539071821110124" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="449.8787829585442" y="0" width="2.5108869652002657" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="452.3896699237445" y="0" width="2.3750139616663057" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.7646838854108" y="0" width="1.8022998795613638" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="456.5669837649722" y="0" width="1.4991689869937348" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="458.0661527519659" y="0" width="0.577472280672279" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.64362503263817" y="0" width="0.537051624155809" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.180676656794" y="0" width="0.41444390147624316" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="459.59512055827025" y="0" width="0.20594829152565253" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.8010688497959" y="0" width="0.1127068246505613" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="459.91377567444647" y="0" width="0.056137130572219876" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="459.9699128050187" y="0" width="0.02854919140402278" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.9984619964227" y="0" width="0.0015380035773210924" height="8" fill="#878787"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -53,7 +55,7 @@
                             </div>
                             <small>
                                 <div>3.05 MB</div>
-                                <div>35.06%</div>
+                                <div>31.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,8 +66,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>1.33 MB</div>
-                                <div>15.27%</div>
+                                <div>1.98 MB</div>
+                                <div>20.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -77,7 +79,7 @@
                             </div>
                             <small>
                                 <div>369 kB</div>
-                                <div>4.25%</div>
+                                <div>3.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -88,68 +90,80 @@
                                 HTML
                             </div>
                             <small>
-                                <div>204 kB</div>
-                                <div>2.35%</div>
+                                <div>230 kB</div>
+                                <div>2.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSS
+                                Go
                             </div>
                             <small>
-                                <div>115 kB</div>
-                                <div>1.32%</div>
+                                <div>154 kB</div>
+                                <div>1.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#336790" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C
+                                PLpgSQL
                             </div>
                             <small>
-                                <div>49.4 kB</div>
-                                <div>0.57%</div>
+                                <div>52.2 kB</div>
+                                <div>0.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TeX
+                                Rust
                             </div>
                             <small>
-                                <div>27.3 kB</div>
-                                <div>0.31%</div>
+                                <div>37.5 kB</div>
+                                <div>0.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                PHP
+                                SCSS
                             </div>
                             <small>
-                                <div>11.1 kB</div>
+                                <div>12 kB</div>
                                 <div>0.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                HCL
                             </div>
                             <small>
-                                <div>2.45 kB</div>
-                                <div>0.03%</div>
+                                <div>8.62 kB</div>
+                                <div>0.09%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Ruby
+                            </div>
+                            <small>
+                                <div>2.35 kB</div>
+                                <div>0.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -175,7 +189,7 @@
                             </div>
                             <small>
                                 <div>2.19 MB</div>
-                                <div>25.11%</div>
+                                <div>22.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -187,7 +201,7 @@
                             </div>
                             <small>
                                 <div>814 kB</div>
-                                <div>9.36%</div>
+                                <div>8.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -199,7 +213,7 @@
                             </div>
                             <small>
                                 <div>289 kB</div>
-                                <div>3.32%</div>
+                                <div>3.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -210,68 +224,80 @@
                                 Shell
                             </div>
                             <small>
-                                <div>141 kB</div>
-                                <div>1.62%</div>
+                                <div>171 kB</div>
+                                <div>1.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#336790" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                PLpgSQL
+                                CSS
                             </div>
                             <small>
-                                <div>52.2 kB</div>
-                                <div>0.6%</div>
+                                <div>115 kB</div>
+                                <div>1.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Rust
+                                C
                             </div>
                             <small>
-                                <div>37.5 kB</div>
-                                <div>0.43%</div>
+                                <div>49.4 kB</div>
+                                <div>0.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                SCSS
+                                TeX
                             </div>
                             <small>
-                                <div>12 kB</div>
-                                <div>0.14%</div>
+                                <div>31.1 kB</div>
+                                <div>0.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HCL
+                                PHP
                             </div>
                             <small>
-                                <div>8.62 kB</div>
-                                <div>0.1%</div>
+                                <div>11.1 kB</div>
+                                <div>0.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Ruby
+                                Dockerfile
                             </div>
                             <small>
-                                <div>2.35 kB</div>
-                                <div>0.03%</div>
+                                <div>4.29 kB</div>
+                                <div>0.04%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#7e7eff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Nix
+                            </div>
+                            <small>
+                                <div>1.17 kB</div>
+                                <div>0.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
